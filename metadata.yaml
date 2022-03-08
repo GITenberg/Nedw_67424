@@ -1,0 +1,44 @@
+_repo: Nedw_67424
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Illingworth, Leslie Gilbert
+    birthdate: 1902
+    deathdate: 1979
+    gutenberg_agent_id: '54265'
+    url: http://www.gutenberg.org/2009/agents/54265
+    wikipedia: https://en.wikipedia.org/wiki/Leslie_Gilbert_Illingworth
+creator:
+  author:
+    agent_name: Davies, E. Tegla (Edward Tegla)
+    alias: Davies, Edward Tegla
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '54264'
+    url: http://www.gutenberg.org/2009/agents/54264
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edward_Tegla_Davies
+    - https://cy.wikipedia.org/wiki/Edward_Tegla_Davies
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67424'
+  lccn: ca32000531
+language: cy
+pgterms:marc905: 20220212185741davies
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net
+publication_note: United Kingdom :Hughes a'i Fab, Cyhoeddwyr,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Children''s stories, Welsh'
+- !lcc 'PZ'
+- !lcc 'PB'
+- GITenberg
+title: Nedw
+url: http://www.gutenberg.org/ebooks/67424
