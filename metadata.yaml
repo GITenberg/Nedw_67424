@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '54265'
     url: http://www.gutenberg.org/2009/agents/54265
     wikipedia: https://en.wikipedia.org/wiki/Leslie_Gilbert_Illingworth
+covers:
+- cover_type: archival
+  image_path: 67424-h/images/cover.jpg
 creator:
   author:
     agent_name: Davies, E. Tegla (Edward Tegla)
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edward_Tegla_Davies
     - https://cy.wikipedia.org/wiki/Edward_Tegla_Davies
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67424#Nedw
 gutenberg_issued: '2022-02-17'
 identifiers:
   gutenberg: '67424'
